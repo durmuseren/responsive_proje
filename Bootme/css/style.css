@@ -1,0 +1,14 @@
+#hero {
+    background-color : gray;
+    background-position:center center;
+    background-attachment: fixed;
+}
+.container {
+    font-weight: 600;
+}
+h4 {
+    color:deepskyblue;
+}
+h5 {
+    color:black;
+}
